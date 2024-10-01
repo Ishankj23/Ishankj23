@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-Aspiring Data Scientist | Certified by ETLHive| Proficient in Python, SQL, and data analysis | Eager to contribute to innovative projects
+Data Scientist at Rajyug Solutions | Machine Learning | Data Analyst | Python, SQL, Tableau, Power BI 
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [kaustubhij23@gmail.com](mailto:kaustubhij23@gmail.com)
