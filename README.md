@@ -88,21 +88,4 @@ Analytical and results-driven Data Scientist with hands-on experience in designi
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/> 
