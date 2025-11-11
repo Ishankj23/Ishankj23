@@ -7,7 +7,7 @@
   
 
 🔹 **Data Scientist | Dashboard Developer | SQL & Python Enthusiast**  
-🔹 Pune, India | 📧 kaustubhij23@gmail.com | 📞 9325307438  
+🔹 Pune, India | 📧 kaustubhij23@gmail.com 
 🔹 [LinkedIn](https://www.linkedin.com/in/kaustubh-jagtap)  
   
 
