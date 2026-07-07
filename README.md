@@ -57,7 +57,7 @@ Building practical cybersecurity skills through hands-on labs, attack simulation
 
 # 🏠 Current SOC Home Lab
 
-<img src="./architecture/vm-topology.png"/>
+<img src="./Architecture/Architecture.png"/>
 
 ### Infrastructure
 
